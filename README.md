@@ -7,4 +7,4 @@ Loop                            ' Fecha o loop
 a = MsgBox("Eu já sabia", 0 + 64, "Obrigado")   ' Exibe uma mensagem com um único botão "OK"
 
 esse código apenas é para fins didaticos por favor não instale em seu computador
-
+obrigado
